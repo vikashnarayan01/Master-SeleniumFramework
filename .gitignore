@@ -1,0 +1,16 @@
+target
+MasterSeleniumFramework.iml
+test-output
+Screenshots
+Drivers
+allure-results
+.idea
+.settings
+ExtentReports.zip
+ExtentReports
+.classpath
+.project
+z_others
+testng_Local_Edge.xml
+testng_Local_Only1TestCase.xml
+README.md
