@@ -1,6 +1,6 @@
-# Master-SeleniumFramework
+## Master-SeleniumFramework
 ------------------------------------------------------------
-It has a concept of Atomic tests (Achieved by Selenium WebDriver API and RestAssured API)
+Selenium WebDriver API and RestAssured API
 ------------------------------------------------------------
 Updations done:
 ------------------------------------------------------------
